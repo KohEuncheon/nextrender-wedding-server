@@ -1,0 +1,14 @@
+json 
+{
+  "name": "nexrender-wedding-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "@nexrender/core": "^1.40.0",
+    "@nexrender/action-upload": "^1.40.0",
+    "multer": "^1.4.5"
+  }
+}
